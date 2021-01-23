@@ -1,0 +1,7 @@
+# Project Secrets
+.myprivatekeys
+# Project-generated files
+package-lock.json
+# Locally-generated files
+.DS_Store
+.vscode
