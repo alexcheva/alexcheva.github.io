@@ -14,9 +14,23 @@ body{
   color: whitesmoke;
 }
 .container-fluid{
-  padding:0px;
+  padding: 0px;
+}
+.bg-dark {
+  background-color: #1d2124!important;
+}
+a {
+  color: #ba46b7;
+}
+a:hover, a:focus {
+  color: #e2e243;
+  text-decoration: underline;
+}
+#pronun{
+  color: grey;
 }
 h1, h2{
+  letter-spacing: 0.03em;
   /* font-family: 'Prata', serif; */
   font-weight: 800;
   /* font-family: 'Yeseva One', serif; */
