@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap');
+
+/* https://fonts.google.com/specimen/Source+Serif+Pro?category=Serif,Display&preview.text=Alexandra%20Lukinicheva&preview.text_type=custom&subset=cyrillic#standard-styles
+https://fonts.google.com/specimen/Tinos?category=Serif,Display&preview.text=Alexandra%20Lukinicheva&preview.text_type=custom&subset=cyrillic#standard-styles
+https://fonts.google.com/specimen/Vollkorn+SC?category=Serif,Display&preview.text=Alexandra%20Lukinicheva&preview.text_type=custom&subset=cyrillic#pairings
+*/
+body{
+  background-color: black;
+  color: whitesmoke;
+}
+.container-fluid{
+  padding:0px;
+}
+h1{
+  /* font-family: 'Prata', serif; */
+  font-weight: 800;
+  /* font-family: 'Yeseva One', serif; */
+  /* font-family: 'Suez One', serif; */
+  font-family: 'DM Serif Text', serif;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+}
