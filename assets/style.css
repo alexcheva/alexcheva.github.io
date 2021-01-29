@@ -13,11 +13,14 @@ body{
   background-color: black;
   color: whitesmoke;
 }
-.container-fluid{
+.override{
   padding: 0px;
 }
 .bg-dark {
   background-color: #1d2124!important;
+}
+li.nav-item {
+  margin: 0px 10px;
 }
 a {
   color: #ba46b7;
